@@ -10,9 +10,9 @@ import pandas as pd
 #Creating a dictionary where each key will be a DataFrame column
 
 data = {
-'País': ['Bélgica', 'Índia', 'Brasil'],
-'Capital': ['Bruxelas', 'Nova Delhi', 'Brasília'],
-'População': [123465, 456789, 987654]
+'País': ['Bélgica', 'Índia', 'Brasil','Russia'],
+'Capital': ['Bruxelas', 'Nova Delhi', 'Brasília','0'],
+'População': [123465, 456789, 987654,0]
 }
 
 #Creating the DataFrame
